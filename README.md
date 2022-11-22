@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Anna and I am a Frontend developer, currently based in Moscow, Russia.
+
+![codewars](https://www.codewars.com/users/Anna5756855/badges/large "My current Codewars rank is 5 kyu")
+
 <!--
 **Anna5756855/Anna5756855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
